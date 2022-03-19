@@ -15,4 +15,5 @@ your computer. As long as you have a C++ compiler, you will be able to run this 
 <div><b>g++ -Wall main.cpp -o intSchedule</b></div>
 To compile the program. This will create an executable called intSchedule, and running the command:
 <div><b>./intSchedule</b></div>
-in command line will execute the program. You can also change the data in the requests.csv file to test the program with different inputs, just make sure to save the file after you have made changes to it.
+in command line will execute the program. You can also change the data in the requests.csv file in a text editor, in order to test the program with 
+different inputs, just make sure to save the file after you have made changes to it.
